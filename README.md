@@ -31,6 +31,4 @@ Você pode acessar a aplicação através do seguinte link: [Projeto Amigo Secre
 
 Sinta-se à vontade para contribuir com melhorias ou correções. Para isso, você pode abrir uma issue ou enviar um pull request.
 
-## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
